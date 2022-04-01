@@ -1,1 +1,0 @@
-package com.umitclebi.msscbreweryclient.web.client;
